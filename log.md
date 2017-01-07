@@ -32,6 +32,8 @@
 
 **PROBLEMS**: Everything is smooth...
 
+**PLAN FOR TOMORROW**: Have to fully integrate all API request to components
+
 **NOTES**: I like doing this on daily basis :)
 
 
