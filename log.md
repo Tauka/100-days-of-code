@@ -36,4 +36,16 @@
 
 **NOTES**: I like doing this on daily basis :)
 
+### Day 3: Januray 08, 2017
+
+**PROJECT**: Uniquora. 
+
+**PROGRESS**: Messed around with API, redux-thunk seems not to work properly
+
+**PROBLEMS**: Multiple dispatchs wrapped into one dispatch doesn't update component multiple times
+
+**PLAN FOR TOMORROW**: Gonna find a way to fix this...
+
+**NOTES**: Need more insight on high-order components
+
 
