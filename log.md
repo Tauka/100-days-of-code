@@ -48,4 +48,16 @@
 
 **NOTES**: Need more insight on high-order components
 
+### Day 4: Januray 09, 2017
+
+**PROJECT**: Unipins. Another my indie project
+
+**PROGRESS**: Got passport authorization working! Also defined shape of data on back-end, and made posting and getting working
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Need to work further on API endpoints on back-end. Once I get them stable, I will work on front-end
+
+**NOTES**: Man, I need to get it done ASAP
+
 
