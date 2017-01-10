@@ -60,4 +60,16 @@
 
 **NOTES**: Man, I need to get it done ASAP
 
+### Day 5: Januray 10, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Finally fixed issue with non-rendering in Feed component. Also set up shared variables for actions/reducers to avoid mistakes. Set up conditional rendering for Feed.
+
+**PROBLEMS**: I'm slow today
+
+**PLAN FOR TOMORROW**: Will continue working on integrating API
+
+**NOTES**: Good code, mad city
+
 
