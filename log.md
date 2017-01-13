@@ -72,4 +72,17 @@
 
 **NOTES**: Good code, mad city
 
+### Day 6: Januray 13, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Checking user existence API is done. Logging in/registering API is done. Working on Feed now.
+
+**PROBLEMS**: It gives unknown props error
+
+**PLAN FOR TOMORROW**: Will continue working on integrating API
+
+**NOTES**: Unfortunately, due to some reasons, missed 2 days
+
+
 
