@@ -84,5 +84,17 @@
 
 **NOTES**: Unfortunately, due to some reasons, missed 2 days
 
+### Day 7: Januray 15, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Integrated Material Design Lite
+
+**PROBLEMS**: It was hell...
+
+**PLAN FOR TOMORROW**: Continue integration and data flow
+
+**NOTES**: I HATE MDL
+
 
 
