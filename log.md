@@ -96,5 +96,17 @@
 
 **NOTES**: I HATE MDL
 
+### Day 8: Januray 15, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Got rid off Material Design Lite and substituted it by Bootstrap 4
+
+**PROBLEMS**: Spent 2 hours debugging super simple CSS mistake, hate those moments
+
+**PLAN FOR TOMORROW**: Continue integration and data flow
+
+**NOTES**: LOVE BOOTSTRAP
+
 
 
