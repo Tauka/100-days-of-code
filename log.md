@@ -120,5 +120,17 @@
 
 **NOTES**: Bootstrap 4 is so cool
 
+### Day 10: Januray 19, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Rather than making complex conditional rendering, I've split the code into components, and set the routing via react-router
+
+**PROBLEMS**: No problems for now, except I'm not happy with my speed and performance
+
+**PLAN FOR TOMORROW**: Design QuestionForm and QuestionExtended via Bootstrap 4
+
+**NOTES**: Learned how to pass info to child route via `React.cloneElement(this.props.children, {myObject: value})`;
+
 
 
