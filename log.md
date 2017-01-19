@@ -96,7 +96,7 @@
 
 **NOTES**: I HATE MDL
 
-### Day 8: Januray 15, 2017
+### Day 8: Januray 17, 2017
 
 **PROJECT**: Uniquora
 
@@ -107,6 +107,18 @@
 **PLAN FOR TOMORROW**: Continue integration and data flow
 
 **NOTES**: LOVE BOOTSTRAP
+
+### Day 9: Januray 18, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Working with Bootstrap 4
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Design all pages in Bootstrap and set the routing
+
+**NOTES**: Bootstrap 4 is so cool
 
 
 
