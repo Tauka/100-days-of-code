@@ -132,5 +132,17 @@
 
 **NOTES**: Learned how to pass info to child route via `React.cloneElement(this.props.children, {myObject: value})`;
 
+### Day 11: Januray 21, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Fixed some elements alignments using flexbox. Also Bootstrapped login page
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Need to clean up SCSS
+
+**NOTES**: Implemented design in Sketch, now need to build it
+
 
 
