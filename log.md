@@ -144,5 +144,17 @@
 
 **NOTES**: Implemented design in Sketch, now need to build it
 
+### Day 12: Januray 22, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: SCSS-ed Feed page, now it's looking good!
+
+**PROBLEMS**: Didn't finish Feed page. Couldn't make `.align-middle` work
+
+**PLAN FOR TOMORROW**: Continue SCSS-ing Feed and then the same with Question page
+
+**NOTES**: Flexbox rules!
+
 
 
