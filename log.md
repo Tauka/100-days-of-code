@@ -156,5 +156,17 @@
 
 **NOTES**: Flexbox rules!
 
+### Day 13: Januray 23, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Finished Feed page! Proceeding to Question page
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Question page
+
+**NOTES**: There's lot more work to do than you initally think
+
 
 
