@@ -168,5 +168,17 @@
 
 **NOTES**: There's lot more work to do than you initally think
 
+### Day 14: Januray 24, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Damn, I tried to use grids on Feed page, but it works poorly with `position: fixed`. So I reverted it back. Worked on responsiveness of Feed, design and responsiveness of Question pages.
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Question page
+
+**NOTES**: Today was free day, and I got little too carried away with project
+
 
 
