@@ -180,5 +180,17 @@
 
 **NOTES**: Today was free day, and I got little too carried away with project
 
+### Day 15: Januray 24, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Finally finished designing pages. 
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Gonna proceed to working on some interactivity (search input with live-search, adding tags, modal window for new question and new answers)
+
+**NOTES**: Pomodoro helps
+
 
 
