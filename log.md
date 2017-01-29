@@ -192,5 +192,17 @@
 
 **NOTES**: Pomodoro helps
 
+### Day 16: Januray 24, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Added live-search dropdown
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: adding tags, modal window for new question and new answers
+
+**NOTES**: I'm too slow
+
 
 
