@@ -192,7 +192,7 @@
 
 **NOTES**: Pomodoro helps
 
-### Day 16: Januray 24, 2017
+### Day 16: Januray 28, 2017
 
 **PROJECT**: Uniquora
 
@@ -203,6 +203,30 @@
 **PLAN FOR TOMORROW**: adding tags, modal window for new question and new answers
 
 **NOTES**: I'm too slow
+
+### Day 17: Januray 29, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Created modal windows and binded them to buttons
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Final API integration
+
+**NOTES**: I'm too slow
+
+### Day 18: Januray 30, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Now you can add questions and answer them
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Tidying, removing bugs, making live-search work, etc.
+
+**NOTES**: Tomorrow is the last day, I swear
 
 
 
