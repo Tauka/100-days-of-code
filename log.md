@@ -229,4 +229,17 @@
 **NOTES**: Tomorrow is the last day, I swear
 
 
+### Day 19: Januray 31, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Finished project. Minor bugs still persist
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**:
+
+**NOTES**: Thank god
+
+
 
