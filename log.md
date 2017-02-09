@@ -241,5 +241,14 @@
 
 **NOTES**: Thank god
 
+### Day 20: February 9, 2017
 
+**PROJECT**: Personal web page
 
+**PROGRESS**: Built a skeleton. Added SCSS support. General layout.
+
+**PROBLEMS**: Can't make webfont work
+
+**PLAN FOR TOMORROW**:
+
+**NOTES**: Good to be back
