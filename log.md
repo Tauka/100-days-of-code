@@ -252,3 +252,30 @@
 **PLAN FOR TOMORROW**:
 
 **NOTES**: Good to be back
+
+
+### Day 21: February 13, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Bug fixes. Support
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Fix authorization info. Avatar. 
+
+**NOTES**: Man, this project will follow me forever
+
+### Day 22: February 14, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Auth login page bug fixed. Fixed bug with stacking listeners.
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Fix authorization info. Avatar. 
+
+**NOTES**: Hope end will be soon
+
+
