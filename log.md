@@ -278,4 +278,16 @@
 
 **NOTES**: Hope end will be soon
 
+### Day 23: February 18, 2017
+
+**PROJECT**: Uniquora, Personal page
+
+**PROGRESS**: Infinite scroll, lazy load of FeedMain. Fixed listeners in QuestionExtended. Worked with Personal page
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Avatar handle. User info. Fix updating answers and questions (not re-request, sync client and server)
+
+**NOTES**: Hail Ragnar Lodbrock!
+
 
