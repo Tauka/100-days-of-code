@@ -290,4 +290,16 @@
 
 **NOTES**: Hail Ragnar Lodbrock!
 
+### Day 24: February 19, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Many minor updates (avatar, user-info, sorting of questions and answers, etc.)
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Time problem on comments, displaying last answer in feed
+
+**NOTES**: This project will kill me
+
 
