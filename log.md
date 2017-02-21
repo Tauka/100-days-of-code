@@ -302,4 +302,15 @@
 
 **NOTES**: This project will kill me
 
+### Day 25: February 20, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Added filtering feed
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Front-end error handles, minor tweaks
+
+**NOTES**:
 
