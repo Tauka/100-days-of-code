@@ -314,3 +314,27 @@
 
 **NOTES**:
 
+### Day 26: February 21, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Shipped
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Minor tweaks
+
+**NOTES**:
+
+### Day 27: February 22, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Suka, naxui, zaebalsya prosto
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Firefox optimization
+
+**NOTES**:
+
