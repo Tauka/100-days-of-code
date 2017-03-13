@@ -338,3 +338,75 @@
 
 **NOTES**:
 
+### Day 28: February 22, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Bug fixes
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Firefox optimization
+
+**NOTES**:
+
+### Day 29: February 22, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: UI improvements
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: 
+
+**NOTES**:
+
+### Day 30: February 22, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Bug fixes
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: 
+
+**NOTES**:
+
+### Day 31: February 22, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Bug fixes
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: 
+
+**NOTES**:
+
+### Day 32: February 22, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Bug fixes
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: 
+
+**NOTES**:
+
+### Day 33: February 22, 2017
+
+**PROJECT**: Uniquora
+
+**PROGRESS**: Suka, naxui, zaebalsya prosto
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**:
+
+**NOTES**:
+
