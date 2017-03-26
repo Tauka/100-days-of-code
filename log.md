@@ -410,3 +410,28 @@
 
 **NOTES**:
 
+### Day 34: March 25, 2017
+
+**PROJECT**: Educational Portal
+
+**PROGRESS**: Initializing project
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Structuring/routing
+
+**NOTES**: Since my last project, react-router has released a major update
+
+
+### Day 35: March 26, 2017
+
+**PROJECT**: Educational Portal
+
+**PROGRESS**: Structuring/routing
+
+**PROBLEMS**:
+
+**PLAN FOR TOMORROW**: Back-end programming
+
+**NOTES**:
+
